@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00838f</color>
+    <color name="colorPrimaryDark">#00555c</color>
+    <color name="colorAccent">#9e9d24</color>
+
+    <color name="colorCart">#ffe627</color>
+    <color name="colorHome">#ca0000</color>
+    <color name="test">#fefefe</color>
+    <color name="textColor">#FFF</color>
+
+    <color name="QRCodeBlackColor">#000000</color>
+    <color name="QRCodeWhiteColor">#FFF</color>
+</resources>

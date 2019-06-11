@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_item"
+        android:orderInCategory="100"
+        android:title="Add New Item"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete_item"
+        android:orderInCategory="100"
+        android:title="Delete Item"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/edit_item"
+        android:orderInCategory="100"
+        android:title="Edit Item"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+</menu>
