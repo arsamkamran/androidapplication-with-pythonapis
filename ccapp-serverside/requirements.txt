@@ -1,4 +1,0 @@
-pip
-Flask
-cassandra-driver
-requests
